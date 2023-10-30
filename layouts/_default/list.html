@@ -1,9 +1,9 @@
 {{ define "main" }} {{ $categoryTitle := .Title }} {{ $categoryDescription := ' ' }} 
-{{ if (eq .Data.Term "Low-tech Solutions") }} {{ $categoryTitle = i18n "lowtechtitle" }} 
-{{ $categoryDescription = i18n "lowtechdescription" | default "Interesting possibilities arise when you combine old technology with new knowledge and new materials, or when you apply old concepts and traditional knowledge to modern technology." }}
-{{ else if (eq .Data.Term "High-tech Problems")}} {{ $categoryTitle = i18n "hightechtitle" }} {{ $categoryDescription = i18n "hightechdescription" | default "Technology has become the idol of our society, but technological progress is—more often than not—aimed at solving problems caused by earlier technical inventions." }}
-{{ else if (eq .Data.Term "Obsolete Technology")}} {{ $categoryTitle = i18n "obsoletetitle" }} {{ $categoryDescription = i18n "obsoletedescription" | default "There is a lot of potential in past and often forgotten knowledge and technologies when it comes to designing a sustainable society." }} 
-{{ else if (eq .Data.Term "About")}} {{ $categoryTitle = i18n "about" }} {{ $categoryDescription = i18n "aboutdescription" | default "" }}{{ end }}
+{{ if (eq .Data.Term "about") }} {{ $categoryTitle = i18n "abouttitle" }} 
+{{ $categoryDescription = i18n "aboutdescription" | default "find out about me and this website" }}
+{{ else if (eq .Data.Term "works")}} {{ $categoryTitle = i18n "workstitle" }} {{ $categoryDescription = i18n "worksdescription" | default "some works i have been a part of" }}
+{{ else if (eq .Data.Term "essays")}} {{ $categoryTitle = i18n "essaystitle" }} {{ $categoryDescription = i18n "essaysdescription" | default "to connect my practice to theory i like to read texts, listen to different approaches and discuss topics, sometimes i write essays – here are a few" }} 
+{{ end }}
 <main class="article-list">
     <header>
         {{ if (eq .Data.Singular "author")}} {{ i18n "written_by" | default "Written by"}} {{ else if (eq .Data.Singular "translator")}} {{ i18n "translated_by" | default "Translated by"}} {{ else if (eq .Data.Singular "tag")}} {{ i18n "theme" | default "Theme"}}{{ end }}
