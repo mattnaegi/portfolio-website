@@ -49,7 +49,7 @@ enableInlineShortcodes = true
 
 [params]
 	author = "matthias naegeli"
-  description = "i am a collage of ideas and concepts"
+  description = "i am a collage of skills, ideas and concepts"
 
 [menu]
 [[menu.main]]

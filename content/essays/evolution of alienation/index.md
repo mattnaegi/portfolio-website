@@ -1,5 +1,5 @@
 ---
-title: "The evolution of alienation"
+title: "the evolution of alienation"
 date: 2022-01-06
 summary: "an essay written in HS 21 for the module Inter-Action Design taught by Verena Ziegler"
 slug: "essay-alienation"

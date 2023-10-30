@@ -1,5 +1,5 @@
 ---
-title: "How our way of remembering information has changed"
+title: "how our way of remembering information has changed"
 date: 2023-01-06
 summary: "an essay written in FS 22 for the module ... taught by ..."
 slug: "essay-remembering"

@@ -1,7 +1,7 @@
 ---
 title: "in remembrance"
 date: 2023-09-14
-summary: ""
+summary: "an audio-visual-haptic installation talking about childhood and the protection of something as soft as a pillow-fort"
 slug: "in-remembrance"
 lang: "en"
 authors: ["matthias naegeli" ]

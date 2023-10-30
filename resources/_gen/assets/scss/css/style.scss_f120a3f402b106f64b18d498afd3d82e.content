@@ -217,7 +217,8 @@ nav {
   nav .icon {
     top: 4px; }
   nav .rss {
-    margin-left: var(--pad-small); }
+    margin-left: var(--pad-small);
+    margin-right: var(--pad-small); }
 
 .subtitle {
   line-height: 1.2; }

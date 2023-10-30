@@ -2,7 +2,7 @@
 {{ if (eq .Data.Term "about") }} {{ $categoryTitle = i18n "abouttitle" }} 
 {{ $categoryDescription = i18n "aboutdescription" | default "find out about me and this website" }}
 {{ else if (eq .Data.Term "works")}} {{ $categoryTitle = i18n "workstitle" }} {{ $categoryDescription = i18n "worksdescription" | default "some works i have been a part of" }}
-{{ else if (eq .Data.Term "essays")}} {{ $categoryTitle = i18n "essaystitle" }} {{ $categoryDescription = i18n "essaysdescription" | default "to connect my practice to theory i like to read texts, listen to different approaches and discuss topics, sometimes i write essays – here are a few" }} 
+{{ else if (eq .Data.Term "essays")}} {{ $categoryTitle = i18n "essaystitle" }} {{ $categoryDescription = i18n "essaysdescription" | default "to connect my practice to theory i like to read texts, listen to different approaches and discuss topics _ sometimes i write essays – here are a few" }} 
 {{ end }}
 <main class="article-list">
     <header>
