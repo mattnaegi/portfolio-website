@@ -7,7 +7,7 @@ lang: "en"
 authors: ["matthias naegeli" ]
 categories: ["works"]
 tags: ["physical computing", "arduino", "BA interaction design", "exhibited", ]
-featured_image: ""
+featured_image: "wearing-helmet-ii.jpg"
 draft: false
 ---
 

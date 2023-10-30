@@ -92,5 +92,6 @@ defaultContentLanguage = 'en'
   toLower = false
 [[related.indices]]
   name = 'tags'
+  weight = 100
   
 
