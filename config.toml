@@ -44,7 +44,7 @@ block = true
 enableInlineShortcodes = true
 
 [permalinks]
-	posts = '/:year/:month/:slugorfilename/'
+	posts = '/:slugorfilename/'
   categories = '/:slug/'
 
 [params]
@@ -93,8 +93,5 @@ defaultContentLanguage = 'en'
 [[related.indices]]
   name = 'tags'
   weight = 100
-[[related.indices]]
-  name = 'lang'
-  weight = 80
   
 
