@@ -25,8 +25,9 @@ Having spent half a year in Shanghai studying Mandarin in 2017, I am looking for
 In the process of choosing a school and study field that interests me for an exchange I stumbled upon Jewelry Design at CAA and immediately felt drawn to it. I enjoy jewelry and wearables and their design a lot. All the while loving the emotional value they can hold for some and the sheer beauty and intricacy of jewelry pieces the most.  
 During my short internship as a gold- and silversmith at Parolari Goldschmied AG, I was able to learn a lot of basics in working with metals and precious stones. I am excited to deepen this knowledge and these skills at a school as prestigious as CAA.  
 Although jewelry design seems to be quite far away from interaction design, finding the connections and contrasts between the two is exactly what motivates me.  
-I am eager to take this opportunity to not only get to know a different kind of design and aesthetic, but to deepen my knowledge and craft-skills in jewelry design, as well as learning a new way of looking at and making sense of the world around me.   
+I am eager to take this opportunity to not only get to know a different kind of design and aesthetic, but to deepen my knowledge and craft-skills in jewelry design, as well as learning a new way of looking at and making sense of the world around me.     
 
 
-I am looking forward to hearing from you. 
+
+I am looking forward to hearing from you.   
 Matthias Naegeli
