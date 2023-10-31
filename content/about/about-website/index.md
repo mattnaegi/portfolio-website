@@ -7,9 +7,11 @@ lang: "en"
 authors: ["matthias naegeli"]
 categories: ["about"]
 tags: ["web-design", "sustainability" ]
-featured_image: ""
+featured_image: "screenshot-of-file.png"
 draft: false
 ---
+
+{{% figure src="screenshot-of-file.png" %}} me wearing the helmet while it's still open and reacting to its surroundings {{% /figure %}}  
 
 While learning about how servers and the web work and how evermore sites get data- and therefore energy-consumption-heavy, I got inspired to tackle this project of making my website as light as possible.  
 I have decided for myself that having a website is important to me to be able to share my works, but have decided to not include videos for now. I also use the word 'sustainable' as a snapshot of my knowledge at the moment of creating this website, knowing that it will change the more i learn and am excited for any inputs or feedback.
