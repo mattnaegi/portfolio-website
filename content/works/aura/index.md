@@ -13,6 +13,9 @@ draft: false
 
 {{% figure src="dancer.jpg" %}} a student of contemporary dance (Maren Sauer) trying our dress {{% /figure %}} 
 
+
+## description  
+
 After thinking about the idea of a sexy dress that lights up, we realized that we especially had our difficulties with the word „sexy“.
 Since the definition of sexy undergoes constant change, is subjective and mostly very exclusive, we decided, we wanted to design a wearable, adjustable to most body-types. With this we highlight the sexiness of movement and light, rather than limiting sexiness to a specific definition tied to external factors, such as body type.
 

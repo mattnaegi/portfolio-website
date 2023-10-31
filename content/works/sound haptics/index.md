@@ -23,6 +23,6 @@ This Project started with the vision to combine two senses. Sound exists all aro
 
 
 ## impressions  
-{{% figure src="wearing-helmet.jpg" %}} the helmet when it closes {{% /figure %}}  
-{{% figure src="helmet-inside.jpg" %}} the inside of the helmet with cables, servo motors and vibration motors visible {{% /figure %}}  
+{{% figure src="structure.jpg" %}} close-up of the structure for 'uncomfortable' {{% /figure %}}  
+{{% figure src="installation.jpg" %}} the installation {{% /figure %}}  
 
