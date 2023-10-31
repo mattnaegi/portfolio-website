@@ -1,35 +1,25 @@
 ---
-title: "gold und silber"
-date: 2022-11-28
-summary: "a three month internship as a gold- and silversmith at Goldschmied Parolari"
-slug: "gold-und-silber"
+title: "sound haptics"
+date: 2023-01-16
+summary: "a haptic audio installation exploring feelings and sounds as structures"
+slug: "sound-haptics"
 lang: "en"
 authors: ["matthias naegeli" ]
 categories: ["works"]
 tags: ["crafts", "wearable", "internship", ]
-featured_image: ""
+featured_image: "hand-touching.jpg"
 draft: false
 ---
 
-mentors: Luke Franzke, Paulina Zybinska
-in collaboration with: Mo Bünzli, Elena Walther  
-exhibited at: [Bits 'n' Bolts 2023](https://bitsnbolts.ueberaktiv.ch/) @ ZW Zürich
+mentors: Marcial Koch, Matthias Kappeler
+in collaboration with: Audrey Lohmann, Lyv Muniz Gomes Wägli 
+exhibited at: [lange nacht ZHdK](https://www.zhdk.ch/studium/musik/neuemusik/lange-nacht-723) @ ZHdK
 
-{{% figure src="wearing-helmet-ii.jpg" %}} me wearing the helmet while it's still open and reacting to its surroundings {{% /figure %}}  
+{{% figure src="hand-touching.jpg" %}} hand touching one of the structures, changing the sound {{% /figure %}}  
 
 ## abstract  
 
-The project "Alienation" consists of a wearable helmet that translates auditory and visual inputs into haptic feedback through vibrations. Once a certain threshold is reached, the helmet enters shutdown mode. This is to simulate sensory overstimulation and the physical aspects it comes with.
-
-
-## description  
-"Alienation" ­– the feeling of not belonging, being cut off from the rest of the world. This sentiment is echoed by the physical appearance of the wearable: an astronaut helmet with cables extending from it, a box that connects to a tube.
-
-{{% figure src="technology.jpg" %}} the arduino and cables inside the box {{% /figure %}}  
-
-After putting on the helmet and pressing the button on the attached box, the process begins. Through an externally attached microphone, the helmet records the surrounding noise level. As the recorded sounds build up on one another, they are translated into a haptic experience inside of the helmet: vibrations can be felt on the scalp. The more the auditory input increases, the stronger the vibrations become. This continues until a stimulation threshold is reached, and the helmet's visor closes on its own accord. Suddenly, the wearer's world is reduced to the helmet's white interior – outside noises are now muted, and the wearer is effectively cut off from the outside.
-
-This experience simulates the concept of sensory overstimulation some neurodivergent individuals, such as people with autism or ADHD, experience. Visual and auditory impressions are felt strongly, become distracting, and add a level of psychological stress. Some people report entering shutdown mode after this stress becomes too much – this can express itself through dissociation: the brain coping through "removing" itself from the surrounding environment.  
+This Project started with the vision to combine two senses. Sound exists all around us and gets distorted in various ways. We wanted to make that distortion not visible, but connect the feeling we have on the tips of our fingers with our hearing. This distortion carries an emotional connection, as humans often do to sound. So the challenge of being able to change a sound by texture not only in it’s distortion, but also in its emotionality gets explored in this project.
 
 
 ## impressions  
