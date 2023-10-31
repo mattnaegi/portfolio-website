@@ -11,7 +11,7 @@ featured_image: "screenshot-of-file.png"
 draft: false
 ---
 
-{{% figure src="screenshot-of-file.png" %}} me wearing the helmet while it's still open and reacting to its surroundings {{% /figure %}}  
+{{% figure src="screenshot-of-file.png" %}} a screenshot of a markdown file{{% /figure %}}  
 
 While learning about how servers and the web work and how evermore sites get data- and therefore energy-consumption-heavy, I got inspired to tackle this project of making my website as light as possible.  
 I have decided for myself that having a website is important to me to be able to share my works, but have decided to not include videos for now. I also use the word 'sustainable' as a snapshot of my knowledge at the moment of creating this website, knowing that it will change the more i learn and am excited for any inputs or feedback.
@@ -19,6 +19,7 @@ I have decided for myself that having a website is important to me to be able to
 *interesting resources:*  
 ["why a low-tech website?"](https://solar.lowtechmagazine.com/about/the-solar-website/#why_website)  
 [httparchive page weight report](https://httparchive.org/reports/page-weight)  
+[cyberfeminism index](https://cyberfeminismindex.com/)  
 
 This is an ongoing project to me and i would love to develop it further and maybe even build a solar-powered server in order to host the website myself, rather than hosting it on github pages, where it is at the moment.
 
