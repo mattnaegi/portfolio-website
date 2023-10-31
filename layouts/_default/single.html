@@ -53,12 +53,12 @@
 			</div>
 			{{ if not (in .Params.categories "about")  }}
 			{{ if not (in .Params.categories "") }}
-			{{ partial "post-footer" }}
+			<!-- {{ partial "post-footer" }} -->
 			{{ end }}
 			{{ end }}
 		</section>
 
-		{{ $commentsfile := printf "comments.%s.md" .Lang }}
+		<!-- {{ $commentsfile := printf "comments.%s.md" .Lang }}
 		{{ with .Resources.GetMatch $commentsfile }}
 		<section class="comments" id="comments">
 			<h2 id="comments-title">{{ i18n "commentstitle" | default "Comments"}} </h2>
@@ -70,7 +70,7 @@
 				</div>
 			</details>			
 		</section>
-		{{ end }}
+		{{ end }} -->
 
 		<section id="reference">
 			<div class="footnotes" role="doc-endnotes">

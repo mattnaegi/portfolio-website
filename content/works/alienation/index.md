@@ -13,7 +13,7 @@ draft: false
 
 mentors: Luke Franzke, Paulina Zybinska
 in collaboration with: Mo Bünzli, Elena Walther  
-exhibited at: [Bits 'n' Bolts 2023](https://bitsnbolts.ueberaktiv.ch/) @ Museum für Gestaltung Zürich 
+exhibited at: [Bits 'n' Bolts 2023](https://bitsnbolts.ueberaktiv.ch/) @ ZW Zürich
 
 {{% figure src="wearing-helmet-ii.jpg" %}} me wearing the helmet while it's still open and reacting to its surroundings {{% /figure %}}  
 
