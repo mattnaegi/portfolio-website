@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "*m*atthias_*n*aegeli"
+title = "*m*atthias_*n*aegeli "
 
 buildFuture = true
 buildDrafts = false
