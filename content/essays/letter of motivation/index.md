@@ -9,6 +9,7 @@ categories: ["essays"]
 tags: []
 featured_image: ""
 draft: false
+unlisted: true
 ---
 
 ## on my interests and strengths		
