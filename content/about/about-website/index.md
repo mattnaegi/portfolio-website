@@ -34,8 +34,8 @@ All images are dithered and colorized using a script also provided by low<--tech
 If you find any bugs or inconsistencies please feel free to contact me, I am happy to receive feedback!
 
 ### source-code
-find the code on github:
+find the code to this website on github:
 [https://github.com/mattnaegi/portfolio-website](https://github.com/mattnaegi/portfolio-website)
 
 ### credits
-this website was created by me on the base of v2 of the solar low<--tech website. it was designed by "Marie Otsuka and Roel Roscam Abbing, the same people who were behind the first solar design. Marie Verdeil assisted throughout the process and coordinated the migration of the website." [source code](https://solar.lowtechmagazine.com/)
+this website was created by me on the base of v2 of the solar low<--tech website. it was designed by "Marie Otsuka and Roel Roscam Abbing, the same people who were behind the first solar design. Marie Verdeil assisted throughout the process and coordinated the migration of the website." [source code](https://github.com/lowtechmag/solar)

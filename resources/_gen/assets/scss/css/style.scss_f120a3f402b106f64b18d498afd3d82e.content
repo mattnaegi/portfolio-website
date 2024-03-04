@@ -197,7 +197,7 @@ li.essays .category,
 /*-----------
 NAVIGATION
 -----------*/
-#menu-s > span {
+#menu-s span {
   display: none; }
 
 nav {
@@ -219,6 +219,11 @@ nav {
   nav .rss {
     margin-left: var(--pad-small);
     margin-right: var(--pad-small); }
+
+#menu-list .rss {
+  position: relative;
+  top: 3px;
+  left: -5px; }
 
 .subtitle {
   line-height: 1.2; }
@@ -921,7 +926,8 @@ Global Responsive Styles
     grid-column: span 2; }
   #menu-s span {
     display: block;
-    text-transform: uppercase;
+    text-transform: lowercase;
+    text-decoration: underline;
     letter-spacing: 1px;
     padding-top: 2px; }
     #menu-s span:hover {
