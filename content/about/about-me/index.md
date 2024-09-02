@@ -39,6 +39,8 @@ working with arduino, low-fi electrical engineering, processing, light fixtures,
 
 | when | what
 |---|---|---|  
+| feb 2024 - jul 2024   | exchange semester jewellery design at CAA – Hangzhou, PRC  |  
+| aug 2023 - nov 2023   | participant Transcultural Collaboration – Zürich/Taipei  |  
 | since 2022   | work in awareness/host at verein ZW – Zürich  |  
 | since 2021   | BA interaction design at ZHdK  – Zürich  |  
 | 2021         | start-up management/design/production at whiteleaf nutrition – Thun  |  
