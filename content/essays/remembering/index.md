@@ -1,7 +1,7 @@
 ---
 title: "how our way of remembering information has changed"
 date: 2023-01-06
-summary: "an essay written in FS 22 for the module "Design Methodologie" taught by Joëlle Bitton and Mona Neubauer"
+summary: "an essay written in FS 22 for the module Design Methodologie taught by Joëlle Bitton and Mona Neubauer"
 slug: "essay-remembering"
 lang: "en"
 authors: ["matthias naegeli" ]
