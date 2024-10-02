@@ -8,7 +8,7 @@ authors: ["matthias naegeli" ]
 categories: ["works"]
 tags: ["crafts", "jewellery", "exchange", "BA interaction design", "PRC" ]
 featured_image: "exhibition.jpg"
-draft: true
+draft: false
 ---
 
 teacher:  倪献鸥
