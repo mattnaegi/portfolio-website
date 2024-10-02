@@ -1,15 +1,21 @@
 ---
 title: "– living traces – 「生活的痕跡」"
 date: 2023-12-01
-summary: "a collection of works from three craft courses learning basic techniques in jewellery design: smithing, enamel, jade cutting"
+summary: "a group project dealing with collective and individual memory, that was realized during Transcultural Collaboration 2023, in Taipei, Taiwan"
 slug: "hangzhou"
 lang: "en"
 authors: ["matthias naegeli" ]
 categories: ["works"]
 tags: ["installation", "transcultural", "exchange", "taiwan", ]
-featured_image: "wearing-helmet-ii.jpg"
-draft: true
+featured_image: "at-the-table.jpeg"
+draft: false
 ---
+
+in context of: [Transcultural Collaboration 2023]()
+mentors: Daniel Späti, Nuria Krämer, Dimitri de Pierrot, 
+in collaboration with: [Esme Chuyi Wang](https://esmechuyiwang.cargo.site/), [Martha Oelschläger](), [Leo Barton](https://linktr.ee/cinemaleo)
+exhibited at: [C-Lab Taipei (Taipei Contemporary Culture Center)]()
+
 
 
 {{% figure src="at-the-table.jpeg" %}} a view of visitors inside the installation {{% /figure %}}  
