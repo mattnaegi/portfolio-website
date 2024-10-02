@@ -1,7 +1,7 @@
 ---
 title: "首饰 01:cutting spheres"
 date: 2024-07-11
-summary: "the final homework in the smithing technique workshop at the Jewellery Design Department of China Academy of Art, Hangzhou, PRC"
+summary: "the final homework in the smithing technique course at the Jewellery Design Department of China Academy of Art, Hangzhou, PRC"
 slug: "cutting-spheres"
 lang: "en"
 authors: ["matthias naegeli" ]
