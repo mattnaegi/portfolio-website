@@ -11,9 +11,9 @@ featured_image: "wearing-helmet-ii.jpg"
 draft: false
 ---
 
-mentors: Luke Franzke, Paulina Zybinska
+mentors: Luke Franzke, Paulina Zybinska  
 with: [Mo Bünzli](https://mobuenzli.com/), Elena Walther  
-exhibited at: [Bits 'n' Bolts 2023](https://bitsnbolts.ueberaktiv.ch/) @ ZW Zürich
+exhibited at: [Bits 'n' Bolts 2023](https://bitsnbolts.ueberaktiv.ch/) @ ZW Zürich  
 
 {{% figure src="wearing-helmet-ii.jpg" %}} me wearing the helmet while it's still open and reacting to its surroundings {{% /figure %}}  
 

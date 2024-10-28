@@ -11,7 +11,7 @@ featured_image: "installation-ii_2.jpg"
 draft: false
 ---
   
-in context of: BA Interaction Design, Soft Architecture Course 2022
+in context of: BA Interaction Design, Soft Architecture Course 2022  
 mentors: Dr. Roman Kirschner, Prof. Dr. Karmen Franinovic  
 with: [Audrey Lohmann](https://audreylohmann.ch/), [Loïc Hommel](https://www.loichommel.com/)  
 

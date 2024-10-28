@@ -11,9 +11,9 @@ featured_image: "dancer.jpg"
 draft: false
 ---
   
-in context of: BA Interaction Design, Object Experience Course 2021
-mentors: Verena Ziegler, 
-with: [Benjamin Eggstein](https://esmechuyiwang.cargo.site/), [Sonja Cowley]()  
+in context of: BA Interaction Design, Object Experience Course 2021  
+mentors: Verena Ziegler, Rasa Weber  
+with: [Benjamin Eggstein](https://esmechuyiwang.cargo.site/), [Sonja Cowley](https://www.sonjanatalia.com/)  
   
   
 {{% figure src="dancer.jpg" %}} a student of contemporary dance (Maren Sauer) trying our dress {{% /figure %}} 

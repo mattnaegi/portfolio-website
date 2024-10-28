@@ -11,9 +11,9 @@ featured_image: "at-the-table.jpeg"
 draft: false
 ---
 
-in context of: [Transcultural Collaboration 2023](https://shared-campus.com/themes/cultures-histories-futures/transcultural-collaboration/transcultural-collaboration-2023/)
-mentors: Daniel Späti, Nuria Krämer, Dimitri de Pierrot, 
-with: [Esme Chuyi Wang](https://esmechuyiwang.cargo.site/), [Martha Oelschläger](), [Leo Barton](https://linktr.ee/cinemaleo)
+in context of: [Transcultural Collaboration 2023](https://shared-campus.com/themes/cultures-histories-futures/transcultural-collaboration/transcultural-collaboration-2023/)  
+mentors: Daniel Späti, Nuria Krämer, Dimitri de Pierrot   
+with: [Esme Chuyi Wang](https://esmechuyiwang.cargo.site/), [Martha Oelschläger](), [Leo Barton](https://linktr.ee/cinemaleo)  
 exhibited at: [C-Lab Taipei (Taipei Contemporary Culture Center)](https://clab.org.tw/en/)
 
 

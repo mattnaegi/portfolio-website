@@ -11,9 +11,9 @@ featured_image: "standing-at-exhibit.png"
 draft: false
 ---
 
-mentors: Luke Franzke, Rebecca Morganti-Pfaffhauser 
-with: [Lars Ziegler]()  
-exhibited at: [Planet Digital](https://www.planetdigital.ch/en/) @ Museum für Gestaltung Zürich 
+mentors: Luke Franzke, Rebecca Morganti-Pfaffhauser  
+with: [Lars Ziegler](https://larsziegler.ch/)  
+exhibited at: [Planet Digital](https://www.planetdigital.ch/en/) @ Museum für Gestaltung Zürich  
 
 {{% figure src="standing-at-exhibit.png" %}} a person standing in front of the screens at the exhibition {{% /figure %}}  
 

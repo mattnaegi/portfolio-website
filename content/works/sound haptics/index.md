@@ -11,9 +11,9 @@ featured_image: "hand-touching.jpg"
 draft: false
 ---
 
-mentors: Marcial Koch, Matthias Kappeler
-with: [Audrey Lohmann](https://audreylohmann.ch/), [Lyv Muniz Gomes Wägli]() 
-exhibited at: [lange nacht ZHdK](https://www.zhdk.ch/studium/musik/neuemusik/lange-nacht-723) @ ZHdK
+mentors: Marcial Koch, Matthias Kappeler  
+with: [Audrey Lohmann](https://audreylohmann.ch/), [Lyv Muniz Gomes Wägli]()  
+exhibited at: [lange nacht ZHdK](https://www.zhdk.ch/studium/musik/neuemusik/lange-nacht-723) @ ZHdK  
 
 {{% figure src="hand-touching.jpg" %}} hand touching one of the structures, changing the sound {{% /figure %}}  
 
