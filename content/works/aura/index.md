@@ -10,7 +10,12 @@ tags: ["arduino", "BA interaction design", "wearable", "light" ]
 featured_image: "dancer.jpg"
 draft: false
 ---
-
+  
+in context of: BA Interaction Design, Object Experience Course 2021
+mentors: Verena Ziegler, 
+with: [Benjamin Eggstein](https://esmechuyiwang.cargo.site/), [Sonja Cowley]()  
+  
+  
 {{% figure src="dancer.jpg" %}} a student of contemporary dance (Maren Sauer) trying our dress {{% /figure %}} 
 
 

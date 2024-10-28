@@ -1,14 +1,14 @@
 ---
-title: "首饰 02:queen of hearts"
-date: 2024-06-11
-summary: "results of the enamel course at the Jewellery Design Department of China Academy of Art, Hangzhou, PRC"
-slug: "queen-of-hearts"
+title: "首饰 03:bat on cloud – luck on luck"
+date: 2024-07-11
+summary: "results of the jade carving course at the Jewellery Design Department of China Academy of Art, Hangzhou, PRC"
+slug: "bat-on-cloud"
 lang: "en"
 authors: ["matthias naegeli" ]
 categories: ["works"]
 tags: ["crafts", "jewellery", "exchange", "BA interaction design", "PRC" ]
 featured_image: "final.jpg"
-draft: false
+draft: true
 ---
 
 
@@ -16,17 +16,15 @@ draft: false
 
 ## abstract  
 
-The trio of a pendant and two brooches takes inspiration from the story and illustrations of "Alice in Wonderland", specifically the character of the queen of hearts and the symbols surrounding her. The pendant represents the queen holding a chopped-off head and is made from using electrolysis to coat a real playing card in copper. This prepares the card for being able to use the traditional Chinese technique of inlay enamel.  
-The crown as the symbol of power and responsibility at the same time uses enamel glue to make see-through enamel hearts that resemble gems and to fix the enamel powder to its curved shape.  
-The rose is only halfway painted and stands for devotion to power and the duality of perceived power and control as a ruler. It uses powder enamel on flat surfaces and creates depth by layering multiple pieces.  
+The trio of a pendant and two brooches takes inspiration from the story and illustrations of "Alice in Wonderland", specifically the character of the queen of hearts and the symbols surrounding her. The pendant represents the queen holding a chopped-off head and is made from using electrolysis to coat a real playing card in copper. This prepares the card for being able to use the traditional Chinese technique of inlay enamel.
 
 
 
 ## description  
 
-in the context of my student exchange i had the chance to learn different forms of enameling. 
-
 {{% figure src="tiles.jpg" %}} the tiles and copper-plated joker playing card {{% /figure %}}  
+
+in the context of my student exchange i had the chance to learn different forms of enameling. 
 
 our first task in the third semester course 《珐琅手工课》(enamel class) was to make enamel-coated plates of copper and silver.  
 taking inspiration from the form and color-scape of cells under a microscope, i started experimenting with different colors, techniques and temperatures.  

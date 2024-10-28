@@ -11,7 +11,7 @@ featured_image: "overview.png"
 draft: false
 ---
 
-performed at: [The DELTA Inst]() Hangzhou, PRC
+performed at: [The DELTA Inst](https://www.instagram.com/the_delta_inst/?hl=hu) Hangzhou, PRC
 
 {{% figure src="overview.png" %}} a view from the audience of me performing {{% /figure %}}  
 

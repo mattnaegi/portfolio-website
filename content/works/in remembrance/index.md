@@ -12,7 +12,7 @@ draft: false
 ---
 
 mentors: Ricardo Eizirik, Zainab Lascandri Erbudak   
-in collaboration with: Larissa Platz, Aparupa Saha, Vincent van der Donk, Lucy Ho Tsz Long
+with: [Larissa Platz](https://larissaplatz.com/), [Aparupa Saha](https://www.instagram.com/aparupa193/?hl=de), [Vincent van der Donk](), [Lucy Ho Tsz Long](https://www.instagram.com/lucyno_?igsh=MXFsMWQ2MDF5d3QwNg==)  
 
 {{% figure src="signal-2023-09-18-105843_005.jpeg" %}} a viewer inside the final exhibition {{% /figure %}}   
 

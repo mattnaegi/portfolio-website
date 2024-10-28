@@ -10,9 +10,10 @@ tags: ["social design", "BA interaction design", ]
 featured_image: "participating.jpeg"
 draft: false
 ---
-
+  
+in context of: BA Interaction Design, Interaction Design Methods Course 2022  
 mentors: Dr. Joëlle Bitton, Nicole Foelsterl  
-in collaboration with: Mo Bünzli, Benjamin Eggstein, Nanthatchaporn Janthasom, Giovanna León
+with: [Mo Bünzli](), [Benjamin Eggstein](), [Nanthatchaporn Janthasom](), [Giovanna León]()  
 
 {{% figure src="participating.jpeg" %}} one of the people who joined us, doing quatsch {{% /figure %}}   
 
