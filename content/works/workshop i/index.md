@@ -1,18 +1,18 @@
 ---
 title: "zusammen.finden"
-date: 2025-03-03
+date: 2020-03-03
 summary: "infos zum workshop am 18.03."
 slug: "workshop-i"
 lang: "de"
 authors: ["matthias naegeli" ]
 categories: ["works"]
 tags: []
-featured_image: ""
+featured_image: "flyer i.png"
 draft: false
 ---
 
 
-{{% figure src="wearing-helmet-ii.jpg" %}} me wearing the helmet while it's still open and reacting to its surroundings {{% /figure %}}  
+{{% figure src="flyer i.png" %}} flyer one for the event {{% /figure %}}  
 
 
 ## übersicht
