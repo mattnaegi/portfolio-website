@@ -2,166 +2,169 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>//localhost:1313/works/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ba-interaction-design/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/authors/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/ba-interaction-design/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/crafts/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/exchange/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/crafts/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/jewellery/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/exchange/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/matthias-naegeli/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/jewellery/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/prc/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/authors/matthias-naegeli/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/prc/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/works/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/works/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/works/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/works/cutting-spheres/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/works/queen-of-hearts/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/works/queen-of-hearts/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/works/gfuhlsdusel/</loc>
+    <loc>//localhost:1313/works/gfuhlsdusel/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/performance/</loc>
+    <loc>//localhost:1313/tags/performance/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/works/hangzhou/</loc>
+    <loc>//localhost:1313/works/cutting-spheres/</loc>
+    <lastmod>2024-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/works/hangzhou/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/installation/</loc>
+    <loc>//localhost:1313/tags/installation/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/taiwan/</loc>
+    <loc>//localhost:1313/tags/taiwan/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/transcultural/</loc>
+    <loc>//localhost:1313/tags/transcultural/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/about-me/</loc>
+    <loc>//localhost:1313/about/about-me/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/about-website/</loc>
+    <loc>//localhost:1313/about/about-website/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/sustainability/</loc>
+    <loc>//localhost:1313/tags/sustainability/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/web-design/</loc>
+    <loc>//localhost:1313/tags/web-design/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/works/in-remembrance/</loc>
+    <loc>//localhost:1313/works/in-remembrance/</loc>
     <lastmod>2023-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/transcultural-collaboration-23/</loc>
+    <loc>//localhost:1313/tags/transcultural-collaboration-23/</loc>
     <lastmod>2023-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/decoloniality/</loc>
+    <loc>//localhost:1313/tags/decoloniality/</loc>
     <lastmod>2023-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/essays/design-en-context/</loc>
+    <loc>//localhost:1313/essays/design-en-context/</loc>
     <lastmod>2023-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/essays/</loc>
+    <loc>//localhost:1313/essays/</loc>
     <lastmod>2023-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/essays/</loc>
+    <loc>//localhost:1313/essays/</loc>
     <lastmod>2023-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/learning/</loc>
+    <loc>//localhost:1313/tags/learning/</loc>
     <lastmod>2023-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/writing/</loc>
+    <loc>//localhost:1313/tags/writing/</loc>
     <lastmod>2023-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/internship/</loc>
+    <loc>//localhost:1313/tags/internship/</loc>
     <lastmod>2023-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/works/sound-haptics/</loc>
+    <loc>//localhost:1313/works/sound-haptics/</loc>
     <lastmod>2023-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/wearable/</loc>
+    <loc>//localhost:1313/tags/wearable/</loc>
     <lastmod>2023-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/essays/essay-remembering/</loc>
+    <loc>//localhost:1313/essays/essay-remembering/</loc>
     <lastmod>2023-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/essays/motivation/</loc>
+    <loc>//localhost:1313/essays/motivation/</loc>
     <lastmod>2023-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/works/alienation/</loc>
+    <loc>//localhost:1313/works/alienation/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/arduino/</loc>
+    <loc>//localhost:1313/tags/arduino/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/exhibited/</loc>
+    <loc>//localhost:1313/tags/exhibited/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/physical-computing/</loc>
+    <loc>//localhost:1313/tags/physical-computing/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/works/capturing-light/</loc>
+    <loc>//localhost:1313/works/capturing-light/</loc>
     <lastmod>2022-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/works/quatsch/</loc>
+    <loc>//localhost:1313/works/quatsch/</loc>
     <lastmod>2022-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/social-design/</loc>
+    <loc>//localhost:1313/tags/social-design/</loc>
     <lastmod>2022-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/essays/essay-alienation/</loc>
+    <loc>//localhost:1313/essays/essay-alienation/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/creative-coding/</loc>
+    <loc>//localhost:1313/tags/creative-coding/</loc>
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/works/hate_heat/</loc>
+    <loc>//localhost:1313/works/hate_heat/</loc>
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/works/aura/</loc>
+    <loc>//localhost:1313/works/aura/</loc>
     <lastmod>2021-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/light/</loc>
+    <loc>//localhost:1313/tags/light/</loc>
     <lastmod>2021-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/works/gold-und-silber/</loc>
+    <loc>//localhost:1313/works/workshop-i/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/works/gold-und-silber/</loc>
     <lastmod>2018-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/languages/</loc>
+    <loc>//localhost:1313/languages/</loc>
   </url><url>
-    <loc>/404/</loc>
+    <loc>//localhost:1313/404/</loc>
   </url><url>
-    <loc>/translators/</loc>
+    <loc>//localhost:1313/translators/</loc>
   </url>
 </urlset>

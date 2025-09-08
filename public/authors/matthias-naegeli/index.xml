@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>*m*atthias_*n*aegeli  English</title>
-    <link>/authors/matthias-naegeli/</link>
+    <link>//localhost:1313/authors/matthias-naegeli/</link>
     <description> i am a collage of skills, ideas and concepts</description>
-    <generator>Hugo 0.119.0</generator>
+    <generator>Hugo 0.135.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/authors/matthias-naegeli/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/authors/matthias-naegeli/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
