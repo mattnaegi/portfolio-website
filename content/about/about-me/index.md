@@ -11,7 +11,7 @@ featured_image: "me.jpg"
 draft: false
 ---
 
-{{% figure src="me.jpg" %}} this is me {{% /figure %}} 
+{{% figure src="me.jpg" %}} this is me {{% /figure %}}  
 
 **m**atthias (all pronouns)
 
@@ -22,11 +22,9 @@ i am motivated by finding symbioses between analogue and digital.
 
 working with arduino, low-fi electrical engineering, processing, light fixtures, "trash", ..., i like to expand our perceptions and views on our surroundings and internal processes.  
 
-
 ## CV
 *a selection of things i have done*
 
-  
 <!-- - since 2022   – work in awareness/host at verein ZW                           –  Zürich 
 - since 2021   – BA interaction design at ZHdK                                 –  Zürich    
 - 2021        –  start-up management/design/production at whiteleaf nutrition  –  Thun   
@@ -40,13 +38,13 @@ working with arduino, low-fi electrical engineering, processing, light fixtures,
 | when | what
 |---|---|---|  
 | feb 2024 - jul 2024   | exchange semester jewellery design at CAA – Hangzhou, PRC  |  
-| aug 2023 - nov 2023   | participant Transcultural Collaboration – Zürich/Taipei  |  
 | since 2022   | work in awareness/host at verein ZW – Zürich  |  
-| since 2021   | BA interaction design at ZHdK  – Zürich  |  
+| 2021 - 2025   | BA interaction design at ZHdK  – Zürich  |  
+| aug 2023 - nov 2023   | participant Transcultural Collaboration – Zürich/Taipei  |  
 | 2021         | start-up management/design/production at whiteleaf nutrition – Thun  |  
 | 2019         | military officer (platoon level) sapper/combat engineer – Bremgarten AG  |  
 | 2019         | internship design at flash (e-scooter-start-up)   – Berlin  |  
 | 2018         | internship ad-agency Ultra OOH GmbH    – Berlin  |  
 | 2018         | internship goldsmith at Parolari Goldschmied AG     – Frauenfeld  |  
 | 2017         | language exchange shanghai (HSK 4)         – Shanghai  |  
-| 2017         | matura (specialization biology - chemistry)     – Frauenfeld  | 
+| 2017         | matura (specialization biology - chemistry)     – Frauenfeld  |  
