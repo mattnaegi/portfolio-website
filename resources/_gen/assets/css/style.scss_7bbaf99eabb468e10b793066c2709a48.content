@@ -937,7 +937,7 @@ Global Responsive Styles
     display: block;
     margin: 0 var(--pad) 0 var(--pad); }
     nav#menu > ul li::before {
-      content: ""; }
+      content: " "; }
   #menu-list {
     height: 0;
     padding-left: 26px;
