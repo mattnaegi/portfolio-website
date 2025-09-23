@@ -6,14 +6,6 @@
     <description> i am a collage of skills, ideas and concepts</description>
     <generator>Hugo 0.135.0</generator>
     <language>en</language>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> Stashed changes
-=======
-    <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> Stashed changes
   </channel>
 </rss>
