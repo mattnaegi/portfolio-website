@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
+<<<<<<< Updated upstream
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/works/</loc>
@@ -41,6 +42,79 @@
     <loc>//localhost:1313/works/queen-of-hearts/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
+=======
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/authors/</loc>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/kuration/</loc>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/authors/matthias-naegeli/</loc>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/about/museumfgestaltung/</loc>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/motivationsschreiben/</loc>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/bachelor/</loc>
+    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/collaborative/</loc>
+    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/ritual/</loc>
+    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/thesis/</loc>
+    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/works/</loc>
+    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/works/</loc>
+    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/works/zusammen-kommen/</loc>
+    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/ba-interaction-design/</loc>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/crafts/</loc>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/exchange/</loc>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/jewellery/</loc>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/prc/</loc>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/works/bat-on-cloud/</loc>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/works/queen-of-hearts/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+>>>>>>> Stashed changes
     <loc>//localhost:1313/works/gfuhlsdusel/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -62,6 +136,7 @@
     <loc>//localhost:1313/tags/transcultural/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
+<<<<<<< Updated upstream
     <loc>//localhost:1313/about/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -80,6 +155,20 @@
     <loc>//localhost:1313/tags/web-design/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url><url>
+=======
+    <loc>//localhost:1313/about/about-me/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/about/about-website/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/sustainability/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/web-design/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+>>>>>>> Stashed changes
     <loc>//localhost:1313/works/in-remembrance/</loc>
     <lastmod>2023-09-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -155,9 +244,12 @@
     <loc>//localhost:1313/tags/light/</loc>
     <lastmod>2021-10-10T00:00:00+00:00</lastmod>
   </url><url>
+<<<<<<< Updated upstream
     <loc>//localhost:1313/works/workshop-i/</loc>
     <lastmod>2020-03-03T00:00:00+00:00</lastmod>
   </url><url>
+=======
+>>>>>>> Stashed changes
     <loc>//localhost:1313/works/gold-und-silber/</loc>
     <lastmod>2018-05-02T00:00:00+00:00</lastmod>
   </url><url>

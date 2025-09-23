@@ -7,32 +7,29 @@ lang: "en"
 authors: ["matthias naegeli" ]
 categories: ["works"]
 tags: ["crafts", "jewellery", "exchange", "BA interaction design", "PRC" ]
-featured_image: "final.jpg"
-draft: true
+featured_image: "brosche.jpeg"
+draft: false
 ---
 
 
-{{% figure src="final.jpg" %}} the pendant and the two brooches {{% /figure %}}  
+{{% figure src="brosche.jpeg" %}} the pendant and the two brooches {{% /figure %}}  
 
 ## abstract  
 
 The trio of a pendant and two brooches takes inspiration from the story and illustrations of "Alice in Wonderland", specifically the character of the queen of hearts and the symbols surrounding her. The pendant represents the queen holding a chopped-off head and is made from using electrolysis to coat a real playing card in copper. This prepares the card for being able to use the traditional Chinese technique of inlay enamel.
 
-
-
-## description  
+## description
 
 {{% figure src="tiles.jpg" %}} the tiles and copper-plated joker playing card {{% /figure %}}  
 
-in the context of my student exchange i had the chance to learn different forms of enameling. 
+in the context of my student exchange i had the chance to learn different forms of enameling.  
 
 our first task in the third semester course 《珐琅手工课》(enamel class) was to make enamel-coated plates of copper and silver.  
 taking inspiration from the form and color-scape of cells under a microscope, i started experimenting with different colors, techniques and temperatures.  
 i printed out the simplified designs (in Adobe Illustrator 3-color image conversion) and stuck it to thick paper for cutting out and using as templates.  
 using test-color-swatches we made as a class, i tried to find the color that would best fit the original.  
-  
-  
-### main homework  
+
+### main homework
 
 for our main homework we got the task to design two brooches and one necklace pendant.  
 i took inspiration from my tryout on the electrolysis of the joker card and found the topic of the queen of hearts from „Alice in Wonderland“ and her countless depictions.
@@ -44,11 +41,12 @@ after electrolysis i burnt out the original card, which was quite challenging, b
 after firing the card once with 铜白. i carefully placed the silver wire on top and burnt the card to make the design sink in. the biggest problem i encountered was that the card was quite thin and would bend while in the oven, so i started to bend it straight as soon as i took it out with two big tweezers.
 i then added colors until the spaces were filled and filed down the wire to make a flat surface. i was a little impatient with letting the enamel dry before firing at times, which led to a few holes in the enamel.  
   
-for this design i used my feeling mostly for determining the time in the oven, it was all fired at around 850°C and would take around 50“ normally
-    
+for this design i used my feeling mostly for determining the time in the oven, it was all fired at around 850°C and would take around 50“ normally  
+
 ### the crown
+
 the crown is a symbol of power and a reminder of the responsibilities that come with it.
-for this design i wanted to try to learn hole enamelling. for this i found a video online that helped me a lot: https://www.bilibili.com/video/BV1mT41157H1/
+for this design i wanted to try to learn hole enamelling. for this i found a video online that helped me a lot: [https://www.bilibili.com/video/BV1mT41157H1/](https://www.bilibili.com/video/BV1mT41157H1/)
 i used a piece of leftover 0.6 copper sheet to cut out and bend the crown. i made holes in the form of hearts
 i tried to add color on the back on my first crown which destroyed the design on the front and i had to start over.
 using enamel glue mixed with water i fixed 铜白 on the crown to make the base color, let it dry and fired until the color was uniform and smooth.
@@ -62,10 +60,9 @@ the design was hand-drawn, then cut out of 0.6mm sheet copper.
 
 i wanted to clean the darkened copper on the back of the rose more quickly and placed the pieces in clea- ning acid, which destroyed the glass surface. since i liked the look a lot i left it to be blunt instead of shiny.
 
+## impressions
 
-## impressions  
 {{% figure src="powdering.jpg" %}} the tile before firing using dry powder and a template {{% /figure %}}  
 {{% figure src="after-firing.jpg" %}} a tile after firing {{% /figure %}}  
 {{% figure src="preparing-wire.jpg" %}} preparing the silver wire for inletting the design {{% /figure %}}  
 {{% figure src="inletting-wire.jpg" %}} inletting the wire into the white base {{% /figure %}}  
-
