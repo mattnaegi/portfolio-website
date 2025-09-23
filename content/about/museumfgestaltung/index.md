@@ -8,7 +8,7 @@ authors: ["matthias naegeli"]
 categories: ["about"]
 tags: ["motivationsschreiben", "kuration"]
 featured_image: ""
-draft: false
+draft: true
 ---
 
 
