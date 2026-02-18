@@ -1,9 +1,9 @@
-baseURL = "https://mattnaegi.github.io/portfolio-website/"
+baseURL = "/"
 languageCode = "en-us"
 title = "*m*atthias_*n*aegeli "
 
 buildFuture = true
-buildDrafts = false
+buildDrafts = true
 paginate = 12
 
 DefaultContentLanguage = "en"
