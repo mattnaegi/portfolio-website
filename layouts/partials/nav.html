@@ -5,6 +5,16 @@
     <ul id="menu-list">
 
         {{ $currentPage := . }} {{ range .Site.Menus.main }}
+        <div id="lang-menu" title="languages">
+            <svg class="icon" id="globe" viewBox="0 0 19.97 19.97" xmlns="http://www.w3.org/2000/svg"><circle class="stroke" cx="9.99" cy="9.99" r="9.24"></circle><ellipse class="stroke" cx="9.99" cy="9.99" rx="4.63" ry="9.24"></ellipse><line class="stroke" x1="9.99" x2="9.99" y1="0.75" y2="19.22"></line><line class="stroke" x1="18.39" x2="1.58" y1="12.99" y2="12.99"></line><line class="stroke" x1="18.39" x2="1.58" y1="6.99" y2="6.99"></line></svg>
+            <nav id="languages">
+                <ul>
+                    <li>
+                        <a class="lang-option" href="{{ $baseURL }}/de">DE</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
         <li class="{{ if $currentPage.HasMenuCurrent " main  " . }}active {{ end }}">
             <a href="{{ if i18n .Identifier }} {{ absLangURL .URL }} {{else}} {{.URL}} {{ end }}" data-nav="{{.Name | urlize}}" {{if strings.HasPrefix .URL "https" }} target="_blank" {{end}}>
                 <span>{{ i18n .Identifier | default .Name }}</span>
