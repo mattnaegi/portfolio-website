@@ -1,7 +1,7 @@
 ---
 title: "bewerbungsschreiben"
 date: 2026-02-18
-summary: "bewerbung von matthias naegeli vom 18.02.2026 auf die Stelle Wissenschaftliche:r Mitarbeiter:in Vermittlung Digital"
+summary: "auf die Stelle Wissenschaftliche:r Mitarbeiter:in Vermittlung Digital"
 slug: "museumfgestaltung-2"
 lang: "en"
 authors: ["matthias naegeli"]

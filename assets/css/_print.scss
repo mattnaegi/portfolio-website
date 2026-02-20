@@ -72,13 +72,14 @@
 			page-break-inside: avoid;
 		}
 	}
-	#battery_data {
+	#battery_data, #page-size, #back-to-top {
 		display: none;
 	}
-	nav, #battery, #comment-list, #related, #post-nav, ul.cols .featured-img, footer .dashboard {
+	nav, #battery, #comment-list, #related, #post-nav, ul.cols .featured-img, .footer .dashboard {
 		display: none;
 	}
 	ul.cols	li {
-		max-width: 50%;
+		//max-width: 50%;
+		display: none;
 	}
 }
