@@ -9,6 +9,7 @@ categories: ["about"]
 tags: ["motivationsschreiben", "kuration"]
 featured_image: ""
 draft: true
+unlisted: true
 ---
 
 Hi liebes Museum für Gestaltung-Team,
