@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "*m*atthias_*n*aegeli "
 
 buildFuture = true
-buildDrafts = true
+buildDrafts = false
 pagination.pagerSize = 12
 
 DefaultContentLanguage = "en"

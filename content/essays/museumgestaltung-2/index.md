@@ -11,9 +11,8 @@ featured_image: ""
 draft: true
 ---
 
-Hi liebes Museum für Gestaltung-Team
+Hi liebes Museum für Gestaltung-Team <br>
 Hallo Nicola von Albrecht
-<br>
 
 Ich schreibe ganz aufgeregt und etwas nervös. Schon bevor ich letzten Juni mein BA Interaction Design abgeschlossen hatte, war ich auf der Suche nach einer Stelle, wie ihr sie gerade ausgeschrieben habt. <br>
 Seit unserem Modul Service Design, in dem wir mit dem Museum Rietberg arbeiten durften, wünsche ich mir eine Stelle als Interaction Designer im Museum. Das Museum für Gestaltung bietet so viele unterschiedliche, spannende Interaktionsmöglichkeiten, sowohl mit dem Museum als Institution, als Gebäude und als Veranstaltungsort, als auch mit dem Inhalt und den Objekten.
@@ -31,14 +30,18 @@ Wie ihr seht, habe ich sehr unterschiedliche Interessen und Projekte, die mir vi
 
 Einen erfolgreichen Bewerbungsprozess und bis bald; Ich freue mich von euch zu hören!
 
-Matthias/Maddie Naegeli (alle Pronomen, am liebsten gemischt)
-<br>
+
+
 Liebe Grüsse  
-Matthias Naegeli  
-[mail](matthias.naegeli@stafag.ch)  
+Matthias Naegeli (alle Pronomen, am liebsten gemischt)
+<br>
+[matthias.naegeli(at)stafag.ch](mailto:matthias.naegeli@stafag.ch)  
 +41 78 956 10 00  
 [portfolio-website](mattnaegi.github.io/portfolio-website)  
+
+<!--
 
 ### anhang
 
 - portfolio-selection_matthias-naegeli.pdf  
+-->
