@@ -11,15 +11,8 @@ featured_image: "me-ii.jpg"
 draft: false
 ---
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-{{% figure src="me.jpg" %}} this is me {{% /figure %}}  
-=======
+
 {{% figure src="me-ii.jpg" %}} this is me {{% /figure %}} 
->>>>>>> Stashed changes
-=======
-{{% figure src="me-ii.jpg" %}} this is me {{% /figure %}} 
->>>>>>> Stashed changes
 
 **m**atthias (all pronouns)
 
@@ -30,11 +23,6 @@ i am motivated by finding symbioses between analogue and digital.
 
 working with arduino, low-fi electrical engineering, processing, light fixtures, "trash", ..., i like to expand our perceptions and views on our surroundings and internal processes.  
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-## skills  
-=======
 ## skills  
 
 |  |  
@@ -67,7 +55,6 @@ working with arduino, low-fi electrical engineering, processing, light fixtures,
 | miro  | 3/7 |  
 | notion  | 6/7 |  
 | adobe premiere  | 4/7 |  
->>>>>>> Stashed changes
 
 |  |  
 |---|---|---|  
@@ -100,17 +87,12 @@ working with arduino, low-fi electrical engineering, processing, light fixtures,
 | notion  | 6/7 |  
 | adobe premiere  | 4/7 |  
 
->>>>>>> Stashed changes
+
 ## CV
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
 *a selection of things i have done*  
->>>>>>> Stashed changes
-=======
+
 *a selection of things i have done*  
->>>>>>> Stashed changes
 <!-- - since 2022   – work in awareness/host at verein ZW                           –  Zürich 
 - since 2021   – BA interaction design at ZHdK                                 –  Zürich    
 - 2021        –  start-up management/design/production at whiteleaf nutrition  –  Thun   
@@ -123,17 +105,10 @@ working with arduino, low-fi electrical engineering, processing, light fixtures,
 
 | when | what
 |---|---|---|  
+| since 2025   | work at l'Ultimo Bacio Quartierladen – Zürich  |  
 | since 2022   | work in awareness/host at verein ZW – Zürich  |  
 | 2021 - 2025   | BA interaction design at ZHdK  – Zürich  |  
 | feb 2024 - jul 2024   | exchange semester jewellery design at CAA – Hangzhou, PRC  |  
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-| since 2022   | work in awareness/host at verein ZW – Zürich  |  
-| 2021 - 2025   | BA interaction design at ZHdK  – Zürich  |  
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 | aug 2023 - nov 2023   | participant Transcultural Collaboration – Zürich/Taipei  |  
 | 2021         | start-up management/design/production at whiteleaf nutrition – Thun  |  
 | 2019         | military officer (platoon level) sapper/combat engineer – Bremgarten AG  |  

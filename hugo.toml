@@ -1,0 +1,97 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "*m*atthias_*n*aegeli "
+
+buildFuture = true
+buildDrafts = true
+pagination.pagerSize = 12
+
+DefaultContentLanguage = "en"
+pluralizelisttitles = "false"
+
+refLinksErrorLevel = "WARNING"
+refLinksNotFoundURL = "/"
+
+timeout = 60000
+
+rssLimit = 3
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.parser.attribute]
+block = true
+
+
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'onesenterprise'
+    tabWidth = 4
+
+
+enableInlineShortcodes = true
+
+[permalinks]
+	posts = '/:slugorfilename/'
+  categories = '/:slug/'
+
+[params]
+	author = "matthias naegeli"
+  description = "i am a collage of skills, ideas and concepts"
+
+[menu]
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "works"
+  name = "works"
+  url = "/works/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "essays"
+  name = "essays"
+  url = "/essays/"
+  weight = 3
+
+
+defaultContentLanguage = 'en'
+[languages]
+	[languages.en]
+    languageName = 'English'
+	  weight = 1
+
+
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
+  translator = "translators"
+  lang = "languages"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+[[related.indices]]
+  name = 'tags'
+  weight = 100
+  
+
