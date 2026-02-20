@@ -4,7 +4,7 @@ title = "*m*atthias_*n*aegeli "
 
 buildFuture = true
 buildDrafts = true
-paginate = 12
+pagination.pagerSize = 12
 
 DefaultContentLanguage = "en"
 pluralizelisttitles = "false"
@@ -49,7 +49,7 @@ enableInlineShortcodes = true
 
 [params]
 	author = "matthias naegeli"
-  description = " i am a collage of skills, ideas and concepts"
+  description = "i am a collage of skills, ideas and concepts"
 
 [menu]
 [[menu.main]]
