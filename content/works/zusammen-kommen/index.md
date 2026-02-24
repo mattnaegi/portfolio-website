@@ -30,7 +30,7 @@ zusammen.kommen explores how collaborative design proces- ses can create rituals
 
 ## full thesis
 
-[to access the full thesis <3](https://www.swisstransfer.com/d/9e5234c5-8080-4aef-9aba-2bce2120c617)  
+[to access the full thesis <3](https://www.swisstransfer.com/d/c47ab193-8e39-44b5-8126-f41414805050)  
 
 ## video
 
