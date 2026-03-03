@@ -1,8 +1,8 @@
 ---
 title: "about me"
 date: 2023-10-31
-summary: "my 'i' page"
-slug: "about-me"
+summary: "meine 'ich' page"
+slug: "about-me-de"
 lang: "de"
 authors: ["matthias naegeli"]
 categories: ["about"]
@@ -17,16 +17,14 @@ unlisted: true
 
 **m**atthias (alle Pronomen)
 
-Ich setze gerne Projekte in unterschiedlichen Themen um, egal woher die Inspiration gerade kommt.
+Ich realisiere gerne Projekte in unterschiedlichen Themen, egal woher die Inspiration gerade kommt.
 Ich arbeite am liebsten in Teams.
 
 Mich motiviert, Symbiosen zwischen Analogem und Digitalem zu finden.
 
-
-working with arduino, low-fi electrical engineering, processing, light fixtures, "trash", ..., i like to expand our perceptions and views on our surroundings and internal processes.  
+Im arbeiten mit Arduino, low-fi electrical engineering, processing, licht-skulpturen, "müll", ..., strebe ich an, unsere Wahrnehmung und Sichtweisen auf innere Prozesse und Umwelt zu erweitern.
 
 ## skills  
-
 |  |  
 |---|---|---|  
 | diskussionen und workshops anleiten  | 6/7 |  
@@ -34,8 +32,7 @@ working with arduino, low-fi electrical engineering, processing, light fixtures,
 | gruppen-prozesse mitmachen oder betreuen  | 6/7 |  
 | schmuck-macher*innen-techniken  | 4/7 |  
 
-### sprachen
-
+### sprachen  
 |  |  
 |---|---|---|  
 | schweizerdeutsch  | 7/7 |  
@@ -48,18 +45,21 @@ working with arduino, low-fi electrical engineering, processing, light fixtures,
 | html/css  | 3/7 |  
 | markdown  | 5/7 |  
 
-### software
+### software  
 |  |  
 |---|---|---|  
 | figma  | 5/7 |  
-| adobe illustrator  | 5/7 |  
-| adobe InDesign  | 6/7 |  
+| adobe (v.a. illustrator und indesign)  | 6/7 |  
 | miro  | 3/7 |  
 | notion  | 6/7 |  
 | adobe premiere  | 4/7 |  
 
-## CV
+<br>
 
+<br>
+<br>
+
+## CV  
 *einiges, was ich schon gemacht habe, oder noch immer mache:*  
 
 | wann | was
