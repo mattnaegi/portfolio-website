@@ -63,29 +63,7 @@ working with arduino, low-fi electrical engineering, processing, light fixtures,
 | group processes  | 6/7 |  
 | basic jeweller's techniques  | 4/7 |  
 
-### language
 
-|  |  
-|---|---|---|  
-| schweizerdeutsch  | 7/7 |  
-| deutsch  | 7/7 |  
-| english  | 7/7 |  
-| français  | 5/7 |  
-| 汉语 (mandarin)  | 3/7 |  
-| processing  | 4/7 |  
-| p5.js  | 3/7 |  
-| html/css  | 3/7 |  
-| markdown  | 4/7 |  
-
-### software
-|  |  
-|---|---|---|  
-| figma  | 5/7 |  
-| adobe illustrator  | 5/7 |  
-| adobe InDesign  | 6/7 |  
-| miro  | 3/7 |  
-| notion  | 6/7 |  
-| adobe premiere  | 4/7 |  
 
 
 ## CV
